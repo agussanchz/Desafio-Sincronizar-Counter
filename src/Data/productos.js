@@ -8,6 +8,7 @@ export const products = [
         title: "teclado 1",
         price: "$4000",
         category_id: 1,
+        stock: 4,
     },
     {
         id: 2,
@@ -15,6 +16,7 @@ export const products = [
         title: "teclado 2",
         price: "$6000",
         category_id: 1,
+        stock: 10,
     },
     {
         id: 3,
@@ -22,6 +24,7 @@ export const products = [
         title: "teclado 3",
         price: "$2000",
         category_id: 1,
+        stock: 2,
     },
     {
         id: 4,
@@ -29,6 +32,7 @@ export const products = [
         title: "mouse 1",
         price: "$1000",
         category_id: 2,
+        stock: 7,
     },
     {
         id: 5,
@@ -36,6 +40,7 @@ export const products = [
         title: "mouse 2",
         price: "$700",
         category_id: 2,
+        stock: 8,
     },
     {
         id: 6,
@@ -43,6 +48,7 @@ export const products = [
         title: "mouse 3",
         price: "$600",
         category_id: 2,
+        stock: 9,
     },
 ]
 

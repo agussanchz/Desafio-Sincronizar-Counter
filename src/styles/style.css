@@ -96,3 +96,26 @@
 .item-card:hover{
     transform: scale(1.1);
 }
+
+/* ESTILO DEL ITEM COUNT */
+
+.counter {
+    width: fit-content;
+    background-color: rgb(12, 124, 222);
+    border-radius: 5px;
+    margin: auto;
+    padding: 1rem;
+    text-align: center;
+}
+
+.counter button {
+    padding: 6px;
+    background-color: rgb(12, 124, 222);
+    color: aliceblue;
+    border: 1px solid rgb(235, 233, 239);
+    margin: 2px;
+}
+
+.counter span {
+    color: aliceblue;
+}
